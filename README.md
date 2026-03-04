@@ -1,3 +1,1 @@
-# Jesus-Client-Deluxe
-Jesus Client - A powerful Minecraft 1.21 cheat client based on Thunderhack. Featuring enhanced modules and performance optimizations.
-Jesus Client is a high-performance Minecraft 1.21 cheat client built upon the Thunderhack source. It features a redesigned interface, optimized bypasses, and exclusive modules tailored for the latest version of the game.
+<img width="1024" height="1024" alt="jesusmc" src="https://github.com/user-attachments/assets/5a578d56-de1b-40ac-83a6-13650d079f6b" /><img width="1024" height="1024" alt="jesusmc" src="https://github.com/user-attachments/assets/37499a50-e15d-4d6c-84d9-e2472e1aa158" />
