@@ -40,7 +40,7 @@ Unlike standard clients, Jesus Client Deluxe focuses on precision and power:
 
 ## 🛠 Installation Guide
 
-1.  **Download:** Grab the latest `.jar` file from the [Releases](link-to-your-releases-here) tab.
+1.  **Download:** Grab the latest `.jar` file from the [Releases]([link-to-your-releases-here](https://github.com/EnvalArchery/Jesus-Client-Deluxe/releases/tag/JesusClient)) tab.
 2.  **Dependencies:** Ensure you have the correct **Fabric** or **Forge** loader installed for Minecraft 1.21.
 3.  **Placement:** Drop the downloaded `.jar` file into your `.minecraft/mods` folder.
 4.  **Launch:** Start Minecraft and enjoy the Deluxe experience.
