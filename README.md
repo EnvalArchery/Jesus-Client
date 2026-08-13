@@ -5,7 +5,7 @@
   <p>Minecraft 1.21 Utility Client</p>
 </div>
 
----.
+---
 
 ## About
 
