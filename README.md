@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a30f61d9-db4c-4ba2-9a93-ad2d06c59769" width="400">
-Test
+
   <h1>Jesus Client Deluxe</h1>
   <p>Minecraft 1.21 Utility Client</p>
 </div>
